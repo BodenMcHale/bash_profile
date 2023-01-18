@@ -56,7 +56,7 @@ alias misc='cd ~/Desktop/Dev/Misc-Projects'
 alias software='cd ~/Desktop/Dev/Software'
 
 ## Commands
-alias helpcmd='eacho "aws, dev, games, misc, software, ticbin, ticdev, ticgame"'
+alias helpcmd='echo "aws, dev, games, misc, software, ticbin, ticdev, ticgame"'
 
 # Python interpreter optimized for calculations
 alias pc='python -ic "from __future__ import division; from math import *"'
